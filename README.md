@@ -13,7 +13,7 @@ Open a terminal with ugly-T.
 
 Your system is now configured. 
 
-# Salt tips
+## Salt tips
 
 http://terokarvinen.com/tag/saltstack
 
