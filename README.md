@@ -15,7 +15,7 @@ Your system is now configured.
 
 ## Salt tips
 
-http://terokarvinen.com/tag/saltstack
+http://terokarvinen.com/tag/salt
 
 ## For Me
 
