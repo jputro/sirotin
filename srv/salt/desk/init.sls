@@ -6,4 +6,6 @@ deskapps:
       - curl
       - httpie
       - gedit
+      - tree
+
 
