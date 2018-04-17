@@ -2,4 +2,5 @@ base:
   '*':
     - hellotero
     - desk
+    - live
 
