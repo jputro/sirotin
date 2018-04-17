@@ -10,7 +10,7 @@ Open a terminal with ugly-T.
 
 	wget https://raw.githubusercontent.com/terokarvinen/sirotin/master/run.sh
 	bash run.sh
-	
+	 
 
 Your system is now configured. 
 
