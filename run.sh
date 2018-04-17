@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 2018 Tero Karvinen http://TeroKarvinen.com GPL 3
 
 echo "Sirotin Live USB configuration Starting... terokarvinen/sirotin"
 set -o verbose
