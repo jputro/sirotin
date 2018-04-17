@@ -4,3 +4,4 @@
     - user: xubuntu
     - group: xubuntu
     - replace: False
+    - makedirs: True
