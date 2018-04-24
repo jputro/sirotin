@@ -7,6 +7,7 @@ deskapps:
       - httpie
       - gedit
       - tree
-      - ssh
+      - openssh-client
+      - autossh
 
 
