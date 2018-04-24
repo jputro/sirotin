@@ -7,5 +7,6 @@ deskapps:
       - httpie
       - gedit
       - tree
+      - ssh
 
 
