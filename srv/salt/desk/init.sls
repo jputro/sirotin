@@ -9,5 +9,4 @@ deskapps:
       - autossh
       - chromium-browser
       - audacity
-      - atom
 
