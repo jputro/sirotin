@@ -1,3 +1,3 @@
-/tmp/hellotero.txt:
+/tmp/hellojaana.txt:
   file.managed:
-    - source: salt://hellotero/hellotero.txt
+    - source: salt://hellojaana/hellojaana.txt
