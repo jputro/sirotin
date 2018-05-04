@@ -1,4 +1,4 @@
-# Sirotin
+# suolakivi
 
 Salt my live USB. Configure a fresh system in just two (2) commands. 
 
@@ -6,9 +6,9 @@ Salt my live USB. Configure a fresh system in just two (2) commands.
 
 Boot a Xubuntu live USB. 
 
-Open a terminal with ugly-T. 
+Open a terminal with Windows-T. 
 
-	wget https://raw.githubusercontent.com/terokarvinen/sirotin/master/run.sh
+	wget https://raw.githubusercontent.com/jputro/suolakivi/master/run.sh
 	bash run.sh
 	 
 
@@ -17,6 +17,8 @@ Your system is now configured.
 ## Salt tips
 
 http://terokarvinen.com/tag/salt
+
+My pages: http://jaanaputro.wordpress.com
 
 ## For Me
 
