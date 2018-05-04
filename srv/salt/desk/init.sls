@@ -4,10 +4,10 @@ deskapps:
       - screen
       - vlc
       - curl
-      - httpie
-      - gedit
-      - tree
+      - git
       - openssh-client
       - autossh
-
+      - chromium-browser
+      - audacity
+      - atom
 
