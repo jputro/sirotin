@@ -1,7 +1,7 @@
 #!/bin/bash
 # Copyright 2018 Tero Karvinen http://TeroKarvinen.com GPL 3
 
-echo "Sirotin Live USB configuration Starting... jputro/suolakivi"
+echo "Suolakivi Live USB configuration Starting... jputro/suolakivi"
 set -o verbose
 
 echo "Installing Salt and Git..."
@@ -22,5 +22,5 @@ git config --global push.default simple
 # git config --global user.email "terosstudent@example.com"
 # git config --global user.name "Tero's Student"
 
-echo "More tips on http://terokarvinen.com/tag/saltstack"
+echo "More tips on http://jaanaputro.wordpress.com"
 echo "Done."
