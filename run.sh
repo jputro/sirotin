@@ -1,7 +1,7 @@
 #!/bin/bash
 # Copyright 2018 Tero Karvinen http://TeroKarvinen.com GPL 3
 
-echo "Sirotin Live USB configuration Starting... terokarvinen/sirotin"
+echo "Sirotin Live USB configuration Starting... jputro/suolakivi"
 set -o verbose
 
 echo "Installing Salt and Git..."
@@ -10,8 +10,8 @@ sudo apt-get -y install git salt-minion
 
 echo "Retrieving and Applying Settings..."
 echo 'master: localhost'|sudo tee /etc/salt/minion
-git clone https://github.com/terokarvinen/sirotin
-cd sirotin/
+git clone https://github.com/jputro/suolakivi
+cd suolakivi/
 ./highstate.sh
 
 echo "Configuring Live Desktop"
